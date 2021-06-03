@@ -1,6 +1,12 @@
 * {
     box-sizing: border-box;
   }
+body{
+    background-image:  url('https://www.mixindia.com/wp-content/uploads/2018/06/MES-Kalladi-College-Mannarkkad.jpg') ;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
   
   /* Style inputs */
   input[type=text], select, textarea {
