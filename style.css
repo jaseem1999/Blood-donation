@@ -1,19 +1,11 @@
 * {
     box-sizing: border-box;
-    color: white;
+    
   }
 
   
   /* Style inputs */
-  input[type=text], select, textarea {
-    width: 100%;
-    padding: 12px;
-    color: black;
-    border: 1px solid #ccc;
-    margin-top: 6px;
-    margin-bottom: 16px;
-    resize: vertical;
-  }
+  
   
   input[type=submit] {
     background-color: #4CAF50;
@@ -30,6 +22,7 @@
   /* Style the container/contact section */
   .container {
     border-radius: 5px;
+    color: white;
     background-image:  url('https://th.bing.com/th/id/R4e6f781f8a1fe13441b43b528b2b8edd?rik=3HFzVCFVYiWF7A&riu=http%3a%2f%2f2.bp.blogspot.com%2f_foLaQKyiJb0%2fTI-Cjo6qYwI%2fAAAAAAAAAAc%2frZ5Z0jZnqg0%2fw1200-h630-p-nu%2fCheguevara___hd%2bwallpaper.jpg&ehk=SNmsn6f638DGye%2bR%2buIpOfxSSyPiCOnlSsD5EbTQg60%3d&risl=&pid=ImgRaw') ;
     background-repeat: no-repeat;
     background-position: center;
